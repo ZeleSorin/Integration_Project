@@ -1,0 +1,39 @@
+
+s	java:S1161"^Rename this field "IdMappedToSeqNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ž•²ï
+z	java:S1162"eRename this field "IDMappedToMessageFragments" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”‹©ƒ
+h
+java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(È§³¸
+P
+java:S1481‘"4Remove this unused "finalListToSend" local variable.(Ðóœ©ýÿÿÿÿ
+N
+java:S1135£"2Complete the task associated to this TODO comment.(Ì‡§¶ùÿÿÿÿ
+N
+java:S1135­"2Complete the task associated to this TODO comment.(ûÓÎÛùÿÿÿÿ
+I
+java:S1135®"2Complete the task associated to this TODO comment.(«æÄ‡
+u
+java:S2142Ç"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+u
+java:S3012ß"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(»ððÑøÿÿÿÿ
+B
+java:S1481ê"&Remove this unused "s" local variable.(„ÜÝŸüÿÿÿÿ
+p
+java:S3012‹"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(‰‚ïÕ
+B
+java:S1128",Remove this unused import 'java.nio.Buffer'.(î¦Ïî
+T
+java:S1128
+">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ÞÛ
+H
+java:S1068!"2Remove this unused "receivingQueue" private field.(‘û‘ç
+‰
+java:S1319*"sThe type of "byteBufferArrayList" should be an interface such as "List" rather than the implementation "ArrayList".(êâÙñ
+–
+java:S1319+"{The type of "toBeSentByteBufferArrayList" should be an interface such as "List" rather than the implementation "ArrayList".(ƒ·ÿºúÿÿÿÿ
+2
+java:S1643i"Use a StringBuilder instead.(ÃÐ‘õ
+u
+java:S1104*"_Make byteBufferArrayList a static final constant or non-public and provide accessors if needed.(êâÙñ
+‚
+java:S1104+"gMake toBeSentByteBufferArrayList a static final constant or non-public and provide accessors if needed.(ƒ·ÿºúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á×û‚
